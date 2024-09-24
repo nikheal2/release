@@ -1,0 +1,9 @@
+{
+	"path": "opendatahub-io/ci/odh-operator-build/opendatahub-io-ci-odh-operator-build-ref.yaml",
+	"owners": {
+		"approvers": [
+			"lavlas",
+			"VaishnaviHire"
+		]
+	}
+}

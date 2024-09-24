@@ -1,0 +1,9 @@
+workflow:
+  as: opendatahub-io-ci-odh-operator-build
+  steps:
+    pre:
+    - ref: opendatahub-io-ci-odh-operator-build
+  documentation: |-
+    This workflow builds and pushes a s390x architecture image of odh operator to the specified
+    image repository.
+
